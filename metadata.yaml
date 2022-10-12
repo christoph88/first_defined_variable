@@ -1,0 +1,5 @@
+homepage: "https://christoph88.github.io/"
+documentation: "https://github.com/christoph88/gtm_community_template/blob/main/README.md"
+versions:
+  - sha: c73487cbd28001466f84634e2e046d9c22495351
+    changeNotes: Initial release.
